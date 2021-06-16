@@ -1,0 +1,9 @@
+{
+  "angulardoc.directoryFilter": [
+
+    "!typings",
+    "!node_modules",
+    "!.vscode"
+  ],
+  "prettier.configPath": ".prettierrc.js"
+}

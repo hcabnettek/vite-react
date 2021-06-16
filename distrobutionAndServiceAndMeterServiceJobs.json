@@ -1,0 +1,1180 @@
+{
+    "primaryContact": "Jackie",
+    "primaryContactPhone": "1112223344",
+    "projectName": "Residential",
+    "projectNumber": "310000286715",
+    "startDate": "07072020",
+    "jobs": [
+      {
+        "jobAddress": "Master Services",
+        "jobContacts": [
+          {
+            "JobContactPhone": "5178027884",
+            "jobContactEmail": "",
+            "jobContactName": "Nagendra",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "5178027884",
+            "jobContactEmail": "HNAGENDRA@SEUCONTRACTOR.COM",
+            "jobContactName": "Hanumantharayappa Nagendra",
+            "jobContactTitle": "SDG&E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk/Inspections"
+          }
+        ],
+        "jobDescription": "residential 5 U262",
+        "jobNumber": "310000288735",
+        "jobPhaseActionRequired": null,
+        "jobPhaseActionRequiredText": null,
+        "jobPhaseLabel": null,
+        "jobPhaseNumber": null,
+        "jobPlannerGroup": "106",
+        "jobTypeCode": "MSO2",
+        "jobWorkOrderCreatedDate": null,
+        "jobWorkOrderNumber": null,
+        "meterBundles": [],
+        "mso1meters": null,
+        "phaseDetails": null,
+        "phaseStatusDetails": "Cancelled",
+        "relatedJobNumber": "",
+        "serviceType": "Electric"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "PKATARIA@SDGECONTRACTOR.COM",
+            "jobContactName": "Prity Kataria",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286716",
+        "jobPhaseActionRequired": "N",
+        "jobPhaseActionRequiredText": "",
+        "jobPhaseLabel": "Initiation",
+        "jobPhaseNumber": "1",
+        "jobTypeCode": "JD Distrubution",
+        "jobWorkOrderNumber": null,
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "1",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "In Progress",
+                "prereqInProgress": "1",
+                "prereqName": "Documentation\/Fees Requested by SDG\u0026E",
+                "prereqNumber": "0151"
+              },
+              {
+                "SL": 3,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending Payment",
+                "prereqInProgress": "0",
+                "prereqName": "Engineering Fee",
+                "prereqNumber": "0352"
+              },
+              {
+                "SL": 6,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "All Required Information",
+                "prereqNumber": "0004"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Preliminary Engineering and Design",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design",
+                "prereqNumber": "0358"
+              },
+              {
+                "SL": 11,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Returned",
+                "prereqNumber": "0357"
+              },
+              {
+                "SL": 12,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Approved",
+                "prereqNumber": "0356"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Final Design",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 15,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Final Design Package",
+                "prereqNumber": "0094"
+              },
+              {
+                "SL": 16,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Signed Contract",
+                "prereqNumber": "0092"
+              },
+              {
+                "SL": 17,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Pre-Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 18,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "Construction",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 203,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              },
+              {
+                "SL": 205,
+                "prereqActionRequired": "",
+                "prereqDetails": "Not Started",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Construction",
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": "Gathering Info",
+        "relatedJobNumber": "",
+        "serviceType": "Electric"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "PKATARIA@SDGECONTRACTOR.COM",
+            "jobContactName": "Prity Kataria",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286717",
+        "jobPhaseActionRequired": "N",
+        "jobPhaseActionRequiredText": "",
+        "jobPhaseLabel": "Initiation",
+        "jobPhaseNumber": "1",
+        "jobTypeCode": "JD Distrubution",
+        "jobWorkOrderNumber": null,
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "1",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "In Progress",
+                "prereqInProgress": "1",
+                "prereqName": "Documentation\/Fees Requested by SDG\u0026E",
+                "prereqNumber": "0151"
+              },
+              {
+                "SL": 3,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending Payment",
+                "prereqInProgress": "0",
+                "prereqName": "Engineering Fee",
+                "prereqNumber": "0352"
+              },
+              {
+                "SL": 6,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "All Required Information",
+                "prereqNumber": "0004"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Preliminary Engineering and Design",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design",
+                "prereqNumber": "0358"
+              },
+              {
+                "SL": 11,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Returned",
+                "prereqNumber": "0357"
+              },
+              {
+                "SL": 12,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Approved",
+                "prereqNumber": "0356"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Final Design",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 15,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Final Design Package",
+                "prereqNumber": "0094"
+              },
+              {
+                "SL": 16,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Signed Contract",
+                "prereqNumber": "0092"
+              },
+              {
+                "SL": 17,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Pre-Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 18,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 19,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Con Meeting",
+                "prereqNumber": "0342"
+              },
+              {
+                "SL": 20,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Inspection",
+                "prereqNumber": "0402"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "Construction",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 203,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              },
+              {
+                "SL": 205,
+                "prereqActionRequired": "",
+                "prereqDetails": "Not Started",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Construction",
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": "Gathering Info",
+        "relatedJobNumber": "",
+        "serviceType": "Gas"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "BCSOTM\u0026S@sdge.com",
+            "jobContactName": "BC SOT",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286718",
+        "jobPhaseActionRequired": null,
+        "jobPhaseActionRequiredText": null,
+        "jobPhaseLabel": null,
+        "jobPhaseNumber": null,
+        "jobTypeCode": "JD Service",
+        "jobWorkOrderNumber": "531900164503",
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Draft request",
+                "prereqNumber": "DZ Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 3,
+                "prereqActionRequired": null,
+                "prereqDetails": "Processed  09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Engineering Fee",
+                "prereqNumber": "0352"
+              },
+              {
+                "SL": 4,
+                "prereqActionRequired": "",
+                "prereqDetails": "TBD",
+                "prereqInProgress": "2",
+                "prereqName": "TBD",
+                "prereqNumber": "Field visit - DP start date"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Create SDG\u0026E work request",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 6,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Field Visit Completed",
+                "prereqNumber": "0178"
+              },
+              {
+                "SL": 7,
+                "prereqActionRequired": null,
+                "prereqDetails": "Received 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              },
+              {
+                "SL": 8,
+                "prereqActionRequired": "",
+                "prereqDetails": "# 531900164503 Date Aug 8th 2020",
+                "prereqInProgress": "2",
+                "prereqName": "Work order Created",
+                "prereqNumber": "Work order and Date"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Pre construction",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 9,
+                "prereqActionRequired": null,
+                "prereqDetails": "Approved 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 9,
+                "prereqActionRequired": null,
+                "prereqDetails": "Approved 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "SDG\u0026E Inspection",
+                "prereqNumber": "0402"
+              },
+              {
+                "SL": 19,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "PERMITS -COUNTY OF SAN DIEGO-NORTH of 56",
+                "prereqNumber": "0809"
+              },
+              {
+                "SL": 109,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "OFFSITE RIGHT OF WAY (PC PHASE HOLD)",
+                "prereqNumber": "0388"
+              },
+              {
+                "SL": 110,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "ONSITE RIGHT OF WAY (CO PHASE HOLD)",
+                "prereqNumber": "0389"
+              },
+              {
+                "SL": 111,
+                "prereqActionRequired": null,
+                "prereqDetails": "Completed 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "TRAFFIC CONTROL PLAN",
+                "prereqNumber": "0448"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 112,
+                "prereqActionRequired": null,
+                "prereqDetails": "Approved 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0401"
+              },
+              {
+                "SL": 113,
+                "prereqActionRequired": null,
+                "prereqDetails": "Construction Approved 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "ASSIGN SERVICES TO CONTRACT CREW WORK",
+                "prereqNumber": "0529"
+              },
+              {
+                "SL": 114,
+                "prereqActionRequired": null,
+                "prereqDetails": "Approved 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 0,
+                "prereqActionRequired": "",
+                "prereqDetails": null,
+                "prereqInProgress": null,
+                "prereqName": null,
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": null,
+        "relatedJobNumber": null,
+        "serviceType": "Electric"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "BCSOTM\u0026S@sdge.com",
+            "jobContactName": "BC SOT",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286719",
+        "jobPhaseActionRequired": "N",
+        "jobPhaseActionRequiredText": "",
+        "jobPhaseLabel": "Create SDG\u0026E work request",
+        "jobPhaseNumber": "2",
+        "jobTypeCode": "JD Service",
+        "jobWorkOrderNumber": null,
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Draft request",
+                "prereqNumber": "DZ Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 4,
+                "prereqActionRequired": "",
+                "prereqDetails": "TBD",
+                "prereqInProgress": "2",
+                "prereqName": "TBD",
+                "prereqNumber": "Field visit - DP start date"
+              }
+            ]
+          },
+          {
+            "currentPhase": "1",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Create SDG\u0026E work request",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 6,
+                "prereqActionRequired": "",
+                "prereqDetails": "Scheduled week of -----------Date",
+                "prereqInProgress": "1",
+                "prereqName": "Field Visit Completed",
+                "prereqNumber": "0178"
+              },
+              {
+                "SL": 7,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Pre construction",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 9,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Inspection",
+                "prereqNumber": "0402"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 112,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0401"
+              },
+              {
+                "SL": 113,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "ASSIGN SERVICES TO CONTRACT CREW WORK",
+                "prereqNumber": "0529"
+              },
+              {
+                "SL": 114,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 0,
+                "prereqActionRequired": "",
+                "prereqDetails": null,
+                "prereqInProgress": null,
+                "prereqName": null,
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": "Field Visit Pending",
+        "relatedJobNumber": null,
+        "serviceType": "Electric"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "",
+            "jobContactName": "",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286720",
+        "jobPhaseActionRequired": "N",
+        "jobPhaseActionRequiredText": "",
+        "jobPhaseLabel": "Create SDG\u0026E work request",
+        "jobPhaseNumber": "2",
+        "jobTypeCode": "JD Service",
+        "jobWorkOrderNumber": null,
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Draft request",
+                "prereqNumber": "DZ Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 09\/08\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 4,
+                "prereqActionRequired": "",
+                "prereqDetails": "TBD",
+                "prereqInProgress": "2",
+                "prereqName": "TBD",
+                "prereqNumber": "Field visit - DP start date"
+              }
+            ]
+          },
+          {
+            "currentPhase": "1",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Create SDG\u0026E work request",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 6,
+                "prereqActionRequired": "",
+                "prereqDetails": "Scheduled week of -----------Date",
+                "prereqInProgress": "1",
+                "prereqName": "Field Visit Completed",
+                "prereqNumber": "0178"
+              },
+              {
+                "SL": 7,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Pre construction",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 9,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Inspection",
+                "prereqNumber": "0402"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 112,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0401"
+              },
+              {
+                "SL": 113,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "ASSIGN SERVICES TO CONTRACT CREW WORK",
+                "prereqNumber": "0529"
+              },
+              {
+                "SL": 114,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 0,
+                "prereqActionRequired": "",
+                "prereqDetails": null,
+                "prereqInProgress": null,
+                "prereqName": null,
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": "Field Visit Pending",
+        "relatedJobNumber": null,
+        "serviceType": "Gas"
+      },
+      {
+        "jobAddress": "9555 Gold coast Dr 123",
+        "jobContacts": [
+          {
+            "JobContactPhone": "1112223344",
+            "jobContactEmail": "",
+            "jobContactName": "Jackie",
+            "jobContactTitle": "Customer Contact"
+          },
+          {
+            "JobContactPhone": "",
+            "jobContactEmail": "PKATARIA@SDGECONTRACTOR.COM",
+            "jobContactName": "Prity Kataria",
+            "jobContactTitle": "SDG\u0026E Project Manager"
+          },
+          {
+            "JobContactPhone": "6196991039",
+            "jobContactEmail": "",
+            "jobContactName": "Southern Region",
+            "jobContactTitle": "Trench Desk\/Inspections"
+          }
+        ],
+        "jobDescription": "Residential",
+        "jobNumber": "310000286721",
+        "jobPhaseActionRequired": "N",
+        "jobPhaseActionRequiredText": "",
+        "jobPhaseLabel": "Initiation",
+        "jobPhaseNumber": "1",
+        "jobTypeCode": "JD Distrubution",
+        "jobWorkOrderNumber": null,
+        "meterBundles": null,
+        "mso1meters": null,
+        "phaseDetails": [
+          {
+            "currentPhase": "1",
+            "phaseDescription": "During the Initiation phase, SDG\u0026E will request all required documents and collect needed fees to formally submit your project for Planning \u0026 Engineering.",
+            "phaseName": "Initiation",
+            "phaseNumber": "1",
+            "preReqs": [
+              {
+                "SL": 1,
+                "prereqActionRequired": "",
+                "prereqDetails": "Received 07\/07\/2020",
+                "prereqInProgress": "2",
+                "prereqName": "Project Request",
+                "prereqNumber": "DP Create Date"
+              },
+              {
+                "SL": 2,
+                "prereqActionRequired": "",
+                "prereqDetails": "In Progress",
+                "prereqInProgress": "1",
+                "prereqName": "Documentation\/Fees Requested by SDG\u0026E",
+                "prereqNumber": "0151"
+              },
+              {
+                "SL": 3,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending Payment",
+                "prereqInProgress": "0",
+                "prereqName": "Engineering Fee",
+                "prereqNumber": "0352"
+              },
+              {
+                "SL": 6,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "All Required Information",
+                "prereqNumber": "0004"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Planning \u0026 Engineering phase, SDG\u0026E will review all requirements and propose a preliminary design for your approval. If you have hired your own designer, SDG\u0026E will need to approve the preliminary design.",
+            "phaseName": "Preliminary Engineering and Design",
+            "phaseNumber": "2",
+            "preReqs": [
+              {
+                "SL": 10,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design",
+                "prereqNumber": "0358"
+              },
+              {
+                "SL": 11,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Returned",
+                "prereqNumber": "0357"
+              },
+              {
+                "SL": 12,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Preliminary Design Approved",
+                "prereqNumber": "0356"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Final Design phase, SDG\u0026E will request third party coordinations such as easements, environmental reviews, etc. and prepare the final design and contract (if required).\r\nThe duration of this phase will depend on the complexity of your project.",
+            "phaseName": "Final Design",
+            "phaseNumber": "3",
+            "preReqs": [
+              {
+                "SL": 15,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Final Design Package",
+                "prereqNumber": "0094"
+              },
+              {
+                "SL": 16,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Signed Contract",
+                "prereqNumber": "0092"
+              },
+              {
+                "SL": 17,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Work Order Fees",
+                "prereqNumber": "0478"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Pre-Construction Phase, SDG\u0026E will coordinate a pre-construction meeting and schedule SDG\u0026E inspections at your request.",
+            "phaseName": "Pre-Construction",
+            "phaseNumber": "4",
+            "preReqs": [
+              {
+                "SL": 18,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Construction Approval",
+                "prereqNumber": "0325"
+              },
+              {
+                "SL": 19,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Pre-Con Meeting",
+                "prereqNumber": "0342"
+              },
+              {
+                "SL": 20,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Inspection",
+                "prereqNumber": "0402"
+              }
+            ]
+          },
+          {
+            "currentPhase": "0",
+            "phaseDescription": "During the Construction phase, SDG\u0026E will schedule gas and\/or electric construction crews.",
+            "phaseName": "Construction",
+            "phaseNumber": "5",
+            "preReqs": [
+              {
+                "SL": 203,
+                "prereqActionRequired": null,
+                "prereqDetails": "Pending",
+                "prereqInProgress": "0",
+                "prereqName": "Construction Approval",
+                "prereqNumber": "0354"
+              },
+              {
+                "SL": 205,
+                "prereqActionRequired": "",
+                "prereqDetails": "Not Started",
+                "prereqInProgress": "0",
+                "prereqName": "SDG\u0026E Construction",
+                "prereqNumber": "Energize Date"
+              }
+            ]
+          }
+        ],
+        "phaseStatusDetails": "Gathering Info",
+        "relatedJobNumber": "",
+        "serviceType": "Electric"
+      }
+    ]
+  }
